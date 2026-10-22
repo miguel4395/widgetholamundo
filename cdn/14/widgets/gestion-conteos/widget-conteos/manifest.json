@@ -1,0 +1,17 @@
+{
+  "name": "widget-conteos",
+  "label": "Gestión de conteos",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Custom",
+  "description": "Edición controlada de conteos y fechas para local nuevo, sucursales y competencias.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}

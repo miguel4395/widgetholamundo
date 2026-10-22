@@ -1,0 +1,24 @@
+
+{
+  "localesUrl": "https://services6.arcgis.com/e5STPBDNmxN8PjAG/arcgis/rest/services/survey123_ff458fb3c4ca4a8fa83c7a311f81dc46/FeatureServer/0",
+  "bufferUrl": "https://services6.arcgis.com/e5STPBDNmxN8PjAG/arcgis/rest/services/Buffer_locales_nuevos/FeatureServer/1",
+  "sucursalesUrl": "https://services6.arcgis.com/e5STPBDNmxN8PjAG/arcgis/rest/services/Puntos_CV_Junio/FeatureServer/0",
+  "competenciasUrl": "https://services6.arcgis.com/e5STPBDNmxN8PjAG/arcgis/rest/services/Competencias_GDI_2025/FeatureServer/586",
+  "conteosSucUrl": "https://services6.arcgis.com/e5STPBDNmxN8PjAG/arcgis/rest/services/Puntos_CV_Junio/FeatureServer/1",
+  "conteosCompUrl": "https://services6.arcgis.com/e5STPBDNmxN8PjAG/arcgis/rest/services/Competencias_GDI_2025/FeatureServer/591",
+  "ventasUrl": "",
+  "modeloUrl": "",
+  "fields": {
+    "localCode": "field_17",
+    "localName": "NombreProyecto",
+    "localId": "ID",
+    "bufferCode": "field_17",
+    "sucId": "ID",
+    "sucGlobalId": "GlobalID",
+    "compGlobalId": "GlobalID",
+    "compId": "Comentarios_adicionales_de_la_c",
+    "parentGlobalId": "ParentGlobalID",
+    "sucCode": "Codigo",
+    "compCode": "codigo"
+  }
+}
